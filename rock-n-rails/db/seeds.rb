@@ -18,6 +18,13 @@ Record.create([
     song_count: 10
   },
   {
+    title: "Red Octopus",
+    artist: "Jefferson Starship",
+    year: 1975,
+    cover_art: "http://images.amazon.com/images/P/B000ANVPJM.01._SCLZZZZZZZ_.jpg",
+    song_count: 10
+  },
+  {
     title: "The Flying Club Cup",
     artist: "Beirut",
     year: 2007,
